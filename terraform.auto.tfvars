@@ -1,6 +1,6 @@
 users = {
-    julien = "julien.toto@dimlab.fr"
-    david  = "david.toto@dimlab.fr"
+    julien = "julien.toto@mydomain.fr"
+    david  = "david.toto@mydomain.fr"
 }
 
-password = "Terraformworkshop2023!"
+password = "MySuperRandomPassword?2K23"
